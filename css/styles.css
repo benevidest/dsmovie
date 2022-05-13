@@ -23,7 +23,7 @@ html, body {
 header {
     background-color: var(--color-primary);
     color: var(--white);
-    height: 33px;
+    height: 60px;
     display: flex;
     align-items: center;
 }
